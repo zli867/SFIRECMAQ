@@ -1,0 +1,17 @@
+# Folders not to upload
+DEBUG/
+work_dir/
+PublicationAnalyses/
+
+# Editor / system / Python clutter
+.idea/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Intermediate data files
+*.pkl
+*.pickle
+
+# Personal scratch file
+scratch.py
